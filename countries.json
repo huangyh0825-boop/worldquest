@@ -1,0 +1,2163 @@
+[
+  {
+    "iso": "CN",
+    "name": "中国",
+    "englishName": "China",
+    "continent": "亚洲",
+    "capital": "北京",
+    "capitalEnglish": "Beijing",
+    "flag": "./flags/cn.svg",
+    "clues": [
+      "地理分区：东亚。",
+      "与阿富汗、不丹、缅甸等国接壤。",
+      "首都是北京。"
+    ],
+    "explanation": "中国位于亚洲，首都是北京。与阿富汗、不丹、缅甸等国接壤。",
+    "latlng": [
+      35,
+      105
+    ],
+    "borders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "NPL",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "JP",
+    "name": "日本",
+    "englishName": "Japan",
+    "continent": "亚洲",
+    "capital": "东京",
+    "capitalEnglish": "Tokyo",
+    "flag": "./flags/jp.svg",
+    "clues": [
+      "地理分区：东亚。",
+      "位于东亚，没有与其他国家相连的陆地国界。",
+      "首都是东京。"
+    ],
+    "explanation": "日本位于亚洲，首都是东京。位于东亚，没有与其他国家相连的陆地国界。",
+    "latlng": [
+      36,
+      138
+    ],
+    "borders": [],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "KR",
+    "name": "韩国",
+    "englishName": "South Korea",
+    "continent": "亚洲",
+    "capital": "首尔",
+    "capitalEnglish": "Seoul",
+    "flag": "./flags/kr.svg",
+    "clues": [
+      "地理分区：东亚。",
+      "与朝鲜接壤。",
+      "首都是首尔。"
+    ],
+    "explanation": "韩国位于亚洲，首都是首尔。与朝鲜接壤。",
+    "latlng": [
+      37,
+      127.5
+    ],
+    "borders": [
+      "PRK"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "MN",
+    "name": "蒙古国",
+    "englishName": "Mongolia",
+    "continent": "亚洲",
+    "capital": "乌兰巴托",
+    "capitalEnglish": "Ulan Bator",
+    "flag": "./flags/mn.svg",
+    "clues": [
+      "地理分区：东亚。",
+      "与中国、俄罗斯接壤。",
+      "首都是乌兰巴托。"
+    ],
+    "explanation": "蒙古国位于亚洲，首都是乌兰巴托。与中国、俄罗斯接壤。",
+    "latlng": [
+      46,
+      105
+    ],
+    "borders": [
+      "CHN",
+      "RUS"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "TH",
+    "name": "泰国",
+    "englishName": "Thailand",
+    "continent": "亚洲",
+    "capital": "曼谷",
+    "capitalEnglish": "Bangkok",
+    "flag": "./flags/th.svg",
+    "clues": [
+      "地理分区：东南亚。",
+      "与缅甸、柬埔寨、老挝等国接壤。",
+      "首都是曼谷。"
+    ],
+    "explanation": "泰国位于亚洲，首都是曼谷。与缅甸、柬埔寨、老挝等国接壤。",
+    "latlng": [
+      15,
+      100
+    ],
+    "borders": [
+      "MMR",
+      "KHM",
+      "LAO",
+      "MYS"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "VN",
+    "name": "越南",
+    "englishName": "Vietnam",
+    "continent": "亚洲",
+    "capital": "河内",
+    "capitalEnglish": "Hanoi",
+    "flag": "./flags/vn.svg",
+    "clues": [
+      "地理分区：东南亚。",
+      "与柬埔寨、中国、老挝接壤。",
+      "首都是河内。"
+    ],
+    "explanation": "越南位于亚洲，首都是河内。与柬埔寨、中国、老挝接壤。",
+    "latlng": [
+      16.16666666,
+      107.83333333
+    ],
+    "borders": [
+      "KHM",
+      "CHN",
+      "LAO"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "LA",
+    "name": "老挝",
+    "englishName": "Laos",
+    "continent": "亚洲",
+    "capital": "万象",
+    "capitalEnglish": "Vientiane",
+    "flag": "./flags/la.svg",
+    "clues": [
+      "地理分区：东南亚。",
+      "与缅甸、柬埔寨、中国等国接壤。",
+      "首都是万象。"
+    ],
+    "explanation": "老挝位于亚洲，首都是万象。与缅甸、柬埔寨、中国等国接壤。",
+    "latlng": [
+      18,
+      105
+    ],
+    "borders": [
+      "MMR",
+      "KHM",
+      "CHN",
+      "THA",
+      "VNM"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "KH",
+    "name": "柬埔寨",
+    "englishName": "Cambodia",
+    "continent": "亚洲",
+    "capital": "金边",
+    "capitalEnglish": "Phnom Penh",
+    "flag": "./flags/kh.svg",
+    "clues": [
+      "地理分区：东南亚。",
+      "与老挝、泰国、越南接壤。",
+      "首都是金边。"
+    ],
+    "explanation": "柬埔寨位于亚洲，首都是金边。与老挝、泰国、越南接壤。",
+    "latlng": [
+      13,
+      105
+    ],
+    "borders": [
+      "LAO",
+      "THA",
+      "VNM"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "PH",
+    "name": "菲律宾",
+    "englishName": "Philippines",
+    "continent": "亚洲",
+    "capital": "马尼拉",
+    "capitalEnglish": "Manila",
+    "flag": "./flags/ph.svg",
+    "clues": [
+      "地理分区：东南亚。",
+      "位于东南亚，没有与其他国家相连的陆地国界。",
+      "首都是马尼拉。"
+    ],
+    "explanation": "菲律宾位于亚洲，首都是马尼拉。位于东南亚，没有与其他国家相连的陆地国界。",
+    "latlng": [
+      13,
+      122
+    ],
+    "borders": [],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "SG",
+    "name": "新加坡",
+    "englishName": "Singapore",
+    "continent": "亚洲",
+    "capital": "新加坡",
+    "capitalEnglish": "Singapore",
+    "flag": "./flags/sg.svg",
+    "clues": [
+      "地理分区：东南亚。",
+      "位于东南亚，没有与其他国家相连的陆地国界。",
+      "位于马来半岛南端，隔柔佛海峡与马来西亚相望。"
+    ],
+    "explanation": "新加坡位于亚洲，首都是新加坡。位于东南亚，没有与其他国家相连的陆地国界。",
+    "latlng": [
+      1.36666666,
+      103.8
+    ],
+    "borders": [],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "BN",
+    "name": "文莱",
+    "englishName": "Brunei",
+    "continent": "亚洲",
+    "capital": "斯里巴加湾市",
+    "capitalEnglish": "Bandar Seri Begawan",
+    "flag": "./flags/bn.svg",
+    "clues": [
+      "地理分区：东南亚。",
+      "与马来西亚接壤。",
+      "首都是斯里巴加湾市。"
+    ],
+    "explanation": "文莱位于亚洲，首都是斯里巴加湾市。与马来西亚接壤。",
+    "latlng": [
+      4.5,
+      114.66666666
+    ],
+    "borders": [
+      "MYS"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "IN",
+    "name": "印度",
+    "englishName": "India",
+    "continent": "亚洲",
+    "capital": "新德里",
+    "capitalEnglish": "New Delhi",
+    "flag": "./flags/in.svg",
+    "clues": [
+      "地理分区：南亚。",
+      "与孟加拉国、不丹、缅甸等国接壤。",
+      "首都是新德里。"
+    ],
+    "explanation": "印度位于亚洲，首都是新德里。与孟加拉国、不丹、缅甸等国接壤。",
+    "latlng": [
+      20,
+      77
+    ],
+    "borders": [
+      "BGD",
+      "BTN",
+      "MMR",
+      "CHN",
+      "NPL",
+      "PAK"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "PK",
+    "name": "巴基斯坦",
+    "englishName": "Pakistan",
+    "continent": "亚洲",
+    "capital": "伊斯兰堡",
+    "capitalEnglish": "Islamabad",
+    "flag": "./flags/pk.svg",
+    "clues": [
+      "地理分区：南亚。",
+      "与阿富汗、中国、印度等国接壤。",
+      "首都是伊斯兰堡。"
+    ],
+    "explanation": "巴基斯坦位于亚洲，首都是伊斯兰堡。与阿富汗、中国、印度等国接壤。",
+    "latlng": [
+      30,
+      70
+    ],
+    "borders": [
+      "AFG",
+      "CHN",
+      "IND",
+      "IRN"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "BD",
+    "name": "孟加拉国",
+    "englishName": "Bangladesh",
+    "continent": "亚洲",
+    "capital": "达卡",
+    "capitalEnglish": "Dhaka",
+    "flag": "./flags/bd.svg",
+    "clues": [
+      "地理分区：南亚。",
+      "与缅甸、印度接壤。",
+      "首都是达卡。"
+    ],
+    "explanation": "孟加拉国位于亚洲，首都是达卡。与缅甸、印度接壤。",
+    "latlng": [
+      24,
+      90
+    ],
+    "borders": [
+      "MMR",
+      "IND"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "NP",
+    "name": "尼泊尔",
+    "englishName": "Nepal",
+    "continent": "亚洲",
+    "capital": "加德满都",
+    "capitalEnglish": "Kathmandu",
+    "flag": "./flags/np.svg",
+    "clues": [
+      "地理分区：南亚。",
+      "与中国、印度接壤。",
+      "首都是加德满都。"
+    ],
+    "explanation": "尼泊尔位于亚洲，首都是加德满都。与中国、印度接壤。",
+    "latlng": [
+      28,
+      84
+    ],
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "BT",
+    "name": "不丹",
+    "englishName": "Bhutan",
+    "continent": "亚洲",
+    "capital": "廷布",
+    "capitalEnglish": "Thimphu",
+    "flag": "./flags/bt.svg",
+    "clues": [
+      "地理分区：南亚。",
+      "与中国、印度接壤。",
+      "首都是廷布。"
+    ],
+    "explanation": "不丹位于亚洲，首都是廷布。与中国、印度接壤。",
+    "latlng": [
+      27.5,
+      90.5
+    ],
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "MV",
+    "name": "马尔代夫",
+    "englishName": "Maldives",
+    "continent": "亚洲",
+    "capital": "马累",
+    "capitalEnglish": "Malé",
+    "flag": "./flags/mv.svg",
+    "clues": [
+      "地理分区：南亚。",
+      "位于南亚，没有与其他国家相连的陆地国界。",
+      "首都是马累。"
+    ],
+    "explanation": "马尔代夫位于亚洲，首都是马累。位于南亚，没有与其他国家相连的陆地国界。",
+    "latlng": [
+      3.25,
+      73
+    ],
+    "borders": [],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "KZ",
+    "name": "哈萨克斯坦",
+    "englishName": "Kazakhstan",
+    "continent": "亚洲",
+    "capital": "阿斯塔纳",
+    "capitalEnglish": "Astana",
+    "flag": "./flags/kz.svg",
+    "clues": [
+      "地理分区：中亚。",
+      "与中国、吉尔吉斯斯坦、俄罗斯等国接壤。",
+      "首都是阿斯塔纳。"
+    ],
+    "explanation": "哈萨克斯坦位于亚洲，首都是阿斯塔纳。与中国、吉尔吉斯斯坦、俄罗斯等国接壤。",
+    "latlng": [
+      48,
+      68
+    ],
+    "borders": [
+      "CHN",
+      "KGZ",
+      "RUS",
+      "TKM",
+      "UZB"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "UZ",
+    "name": "乌兹别克斯坦",
+    "englishName": "Uzbekistan",
+    "continent": "亚洲",
+    "capital": "塔什干",
+    "capitalEnglish": "Tashkent",
+    "flag": "./flags/uz.svg",
+    "clues": [
+      "地理分区：中亚。",
+      "与阿富汗、哈萨克斯坦、吉尔吉斯斯坦等国接壤。",
+      "首都是塔什干。"
+    ],
+    "explanation": "乌兹别克斯坦位于亚洲，首都是塔什干。与阿富汗、哈萨克斯坦、吉尔吉斯斯坦等国接壤。",
+    "latlng": [
+      41,
+      64
+    ],
+    "borders": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "KG",
+    "name": "吉尔吉斯斯坦",
+    "englishName": "Kyrgyzstan",
+    "continent": "亚洲",
+    "capital": "比什凯克",
+    "capitalEnglish": "Bishkek",
+    "flag": "./flags/kg.svg",
+    "clues": [
+      "地理分区：中亚。",
+      "与中国、哈萨克斯坦、塔吉克斯坦等国接壤。",
+      "首都是比什凯克。"
+    ],
+    "explanation": "吉尔吉斯斯坦位于亚洲，首都是比什凯克。与中国、哈萨克斯坦、塔吉克斯坦等国接壤。",
+    "latlng": [
+      41,
+      75
+    ],
+    "borders": [
+      "CHN",
+      "KAZ",
+      "TJK",
+      "UZB"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "TJ",
+    "name": "塔吉克斯坦",
+    "englishName": "Tajikistan",
+    "continent": "亚洲",
+    "capital": "杜尚别",
+    "capitalEnglish": "Dushanbe",
+    "flag": "./flags/tj.svg",
+    "clues": [
+      "地理分区：中亚。",
+      "与阿富汗、中国、吉尔吉斯斯坦等国接壤。",
+      "首都是杜尚别。"
+    ],
+    "explanation": "塔吉克斯坦位于亚洲，首都是杜尚别。与阿富汗、中国、吉尔吉斯斯坦等国接壤。",
+    "latlng": [
+      39,
+      71
+    ],
+    "borders": [
+      "AFG",
+      "CHN",
+      "KGZ",
+      "UZB"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "TM",
+    "name": "土库曼斯坦",
+    "englishName": "Turkmenistan",
+    "continent": "亚洲",
+    "capital": "阿什哈巴德",
+    "capitalEnglish": "Ashgabat",
+    "flag": "./flags/tm.svg",
+    "clues": [
+      "地理分区：中亚。",
+      "与阿富汗、伊朗、哈萨克斯坦等国接壤。",
+      "首都是阿什哈巴德。"
+    ],
+    "explanation": "土库曼斯坦位于亚洲，首都是阿什哈巴德。与阿富汗、伊朗、哈萨克斯坦等国接壤。",
+    "latlng": [
+      40,
+      60
+    ],
+    "borders": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "SA",
+    "name": "沙特阿拉伯",
+    "englishName": "Saudi Arabia",
+    "continent": "亚洲",
+    "capital": "利雅得",
+    "capitalEnglish": "Riyadh",
+    "flag": "./flags/sa.svg",
+    "clues": [
+      "地理分区：西亚。",
+      "与伊拉克、约旦、科威特等国接壤。",
+      "首都是利雅得。"
+    ],
+    "explanation": "沙特阿拉伯位于亚洲，首都是利雅得。与伊拉克、约旦、科威特等国接壤。",
+    "latlng": [
+      25,
+      45
+    ],
+    "borders": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE",
+      "YEM"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "AE",
+    "name": "阿拉伯联合酋长国",
+    "englishName": "United Arab Emirates",
+    "continent": "亚洲",
+    "capital": "阿布扎比",
+    "capitalEnglish": "Abu Dhabi",
+    "flag": "./flags/ae.svg",
+    "clues": [
+      "地理分区：西亚。",
+      "与阿曼、沙特阿拉伯接壤。",
+      "首都是阿布扎比。"
+    ],
+    "explanation": "阿拉伯联合酋长国位于亚洲，首都是阿布扎比。与阿曼、沙特阿拉伯接壤。",
+    "latlng": [
+      24,
+      54
+    ],
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "QA",
+    "name": "卡塔尔",
+    "englishName": "Qatar",
+    "continent": "亚洲",
+    "capital": "多哈",
+    "capitalEnglish": "Doha",
+    "flag": "./flags/qa.svg",
+    "clues": [
+      "地理分区：西亚。",
+      "与沙特阿拉伯接壤。",
+      "首都是多哈。"
+    ],
+    "explanation": "卡塔尔位于亚洲，首都是多哈。与沙特阿拉伯接壤。",
+    "latlng": [
+      25.5,
+      51.25
+    ],
+    "borders": [
+      "SAU"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "OM",
+    "name": "阿曼",
+    "englishName": "Oman",
+    "continent": "亚洲",
+    "capital": "马斯喀特",
+    "capitalEnglish": "Muscat",
+    "flag": "./flags/om.svg",
+    "clues": [
+      "地理分区：西亚。",
+      "与沙特阿拉伯、阿拉伯联合酋长国、也门接壤。",
+      "首都是马斯喀特。"
+    ],
+    "explanation": "阿曼位于亚洲，首都是马斯喀特。与沙特阿拉伯、阿拉伯联合酋长国、也门接壤。",
+    "latlng": [
+      21,
+      57
+    ],
+    "borders": [
+      "SAU",
+      "ARE",
+      "YEM"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "JO",
+    "name": "约旦",
+    "englishName": "Jordan",
+    "continent": "亚洲",
+    "capital": "安曼",
+    "capitalEnglish": "Amman",
+    "flag": "./flags/jo.svg",
+    "clues": [
+      "地理分区：西亚。",
+      "与伊拉克、以色列、巴勒斯坦等国接壤。",
+      "首都是安曼。"
+    ],
+    "explanation": "约旦位于亚洲，首都是安曼。与伊拉克、以色列、巴勒斯坦等国接壤。",
+    "latlng": [
+      31,
+      36
+    ],
+    "borders": [
+      "IRQ",
+      "ISR",
+      "PSE",
+      "SAU",
+      "SYR"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "KW",
+    "name": "科威特",
+    "englishName": "Kuwait",
+    "continent": "亚洲",
+    "capital": "科威特城",
+    "capitalEnglish": "Kuwait City",
+    "flag": "./flags/kw.svg",
+    "clues": [
+      "地理分区：西亚。",
+      "与伊拉克、沙特阿拉伯接壤。",
+      "位于波斯湾西北岸，与伊拉克和沙特阿拉伯接壤。"
+    ],
+    "explanation": "科威特位于亚洲，首都是科威特城。与伊拉克、沙特阿拉伯接壤。",
+    "latlng": [
+      29.5,
+      45.75
+    ],
+    "borders": [
+      "IRQ",
+      "SAU"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "BH",
+    "name": "巴林",
+    "englishName": "Bahrain",
+    "continent": "亚洲",
+    "capital": "麦纳麦",
+    "capitalEnglish": "Manama",
+    "flag": "./flags/bh.svg",
+    "clues": [
+      "地理分区：西亚。",
+      "位于西亚，没有与其他国家相连的陆地国界。",
+      "首都是麦纳麦。"
+    ],
+    "explanation": "巴林位于亚洲，首都是麦纳麦。位于西亚，没有与其他国家相连的陆地国界。",
+    "latlng": [
+      26,
+      50.55
+    ],
+    "borders": [],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "GB",
+    "name": "英国",
+    "englishName": "United Kingdom",
+    "continent": "欧洲",
+    "capital": "伦敦",
+    "capitalEnglish": "London",
+    "flag": "./flags/gb.svg",
+    "clues": [
+      "地理分区：北欧。",
+      "与爱尔兰接壤。",
+      "首都是伦敦。"
+    ],
+    "explanation": "英国位于欧洲，首都是伦敦。与爱尔兰接壤。",
+    "latlng": [
+      54,
+      -2
+    ],
+    "borders": [
+      "IRL"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "FR",
+    "name": "法国",
+    "englishName": "France",
+    "continent": "欧洲",
+    "capital": "巴黎",
+    "capitalEnglish": "Paris",
+    "flag": "./flags/fr.svg",
+    "clues": [
+      "地理分区：西欧。",
+      "本土位于欧洲西部，与德国、西班牙等国接壤。",
+      "首都是巴黎。"
+    ],
+    "explanation": "法国位于欧洲，首都是巴黎。本土位于欧洲西部，与德国、西班牙等国接壤。",
+    "latlng": [
+      46,
+      2
+    ],
+    "borders": [
+      "AND",
+      "BEL",
+      "DEU",
+      "ITA",
+      "LUX",
+      "MCO",
+      "ESP",
+      "CHE"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "DE",
+    "name": "德国",
+    "englishName": "Germany",
+    "continent": "欧洲",
+    "capital": "柏林",
+    "capitalEnglish": "Berlin",
+    "flag": "./flags/de.svg",
+    "clues": [
+      "地理分区：西欧。",
+      "与奥地利、比利时、捷克等国接壤。",
+      "首都是柏林。"
+    ],
+    "explanation": "德国位于欧洲，首都是柏林。与奥地利、比利时、捷克等国接壤。",
+    "latlng": [
+      51,
+      9
+    ],
+    "borders": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "IT",
+    "name": "意大利",
+    "englishName": "Italy",
+    "continent": "欧洲",
+    "capital": "罗马",
+    "capitalEnglish": "Rome",
+    "flag": "./flags/it.svg",
+    "clues": [
+      "地理分区：南欧。",
+      "与奥地利、法国、圣马力诺等国接壤。",
+      "首都是罗马。"
+    ],
+    "explanation": "意大利位于欧洲，首都是罗马。与奥地利、法国、圣马力诺等国接壤。",
+    "latlng": [
+      42.83333333,
+      12.83333333
+    ],
+    "borders": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "ES",
+    "name": "西班牙",
+    "englishName": "Spain",
+    "continent": "欧洲",
+    "capital": "马德里",
+    "capitalEnglish": "Madrid",
+    "flag": "./flags/es.svg",
+    "clues": [
+      "地理分区：南欧。",
+      "与安道尔、法国、直布罗陀等国接壤。",
+      "首都是马德里。"
+    ],
+    "explanation": "西班牙位于欧洲，首都是马德里。与安道尔、法国、直布罗陀等国接壤。",
+    "latlng": [
+      40,
+      -4
+    ],
+    "borders": [
+      "AND",
+      "FRA",
+      "GIB",
+      "PRT",
+      "MAR"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "PT",
+    "name": "葡萄牙",
+    "englishName": "Portugal",
+    "continent": "欧洲",
+    "capital": "里斯本",
+    "capitalEnglish": "Lisbon",
+    "flag": "./flags/pt.svg",
+    "clues": [
+      "地理分区：南欧。",
+      "与西班牙接壤。",
+      "首都是里斯本。"
+    ],
+    "explanation": "葡萄牙位于欧洲，首都是里斯本。与西班牙接壤。",
+    "latlng": [
+      39.5,
+      -8
+    ],
+    "borders": [
+      "ESP"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "IE",
+    "name": "爱尔兰",
+    "englishName": "Ireland",
+    "continent": "欧洲",
+    "capital": "都柏林",
+    "capitalEnglish": "Dublin",
+    "flag": "./flags/ie.svg",
+    "clues": [
+      "地理分区：北欧。",
+      "与英国接壤。",
+      "首都是都柏林。"
+    ],
+    "explanation": "爱尔兰位于欧洲，首都是都柏林。与英国接壤。",
+    "latlng": [
+      53,
+      -8
+    ],
+    "borders": [
+      "GBR"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "IS",
+    "name": "冰岛",
+    "englishName": "Iceland",
+    "continent": "欧洲",
+    "capital": "雷克雅未克",
+    "capitalEnglish": "Reykjavik",
+    "flag": "./flags/is.svg",
+    "clues": [
+      "地理分区：北欧。",
+      "位于北欧，没有与其他国家相连的陆地国界。",
+      "首都是雷克雅未克。"
+    ],
+    "explanation": "冰岛位于欧洲，首都是雷克雅未克。位于北欧，没有与其他国家相连的陆地国界。",
+    "latlng": [
+      65,
+      -18
+    ],
+    "borders": [],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "NO",
+    "name": "挪威",
+    "englishName": "Norway",
+    "continent": "欧洲",
+    "capital": "奥斯陆",
+    "capitalEnglish": "Oslo",
+    "flag": "./flags/no.svg",
+    "clues": [
+      "地理分区：北欧。",
+      "与芬兰、瑞典、俄罗斯接壤。",
+      "首都是奥斯陆。"
+    ],
+    "explanation": "挪威位于欧洲，首都是奥斯陆。与芬兰、瑞典、俄罗斯接壤。",
+    "latlng": [
+      62,
+      10
+    ],
+    "borders": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "SE",
+    "name": "瑞典",
+    "englishName": "Sweden",
+    "continent": "欧洲",
+    "capital": "斯德哥尔摩",
+    "capitalEnglish": "Stockholm",
+    "flag": "./flags/se.svg",
+    "clues": [
+      "地理分区：北欧。",
+      "与芬兰、挪威接壤。",
+      "首都是斯德哥尔摩。"
+    ],
+    "explanation": "瑞典位于欧洲，首都是斯德哥尔摩。与芬兰、挪威接壤。",
+    "latlng": [
+      62,
+      15
+    ],
+    "borders": [
+      "FIN",
+      "NOR"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "FI",
+    "name": "芬兰",
+    "englishName": "Finland",
+    "continent": "欧洲",
+    "capital": "赫尔辛基",
+    "capitalEnglish": "Helsinki",
+    "flag": "./flags/fi.svg",
+    "clues": [
+      "地理分区：北欧。",
+      "与挪威、瑞典、俄罗斯接壤。",
+      "首都是赫尔辛基。"
+    ],
+    "explanation": "芬兰位于欧洲，首都是赫尔辛基。与挪威、瑞典、俄罗斯接壤。",
+    "latlng": [
+      64,
+      26
+    ],
+    "borders": [
+      "NOR",
+      "SWE",
+      "RUS"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "DK",
+    "name": "丹麦",
+    "englishName": "Denmark",
+    "continent": "欧洲",
+    "capital": "哥本哈根",
+    "capitalEnglish": "Copenhagen",
+    "flag": "./flags/dk.svg",
+    "clues": [
+      "地理分区：北欧。",
+      "与德国接壤。",
+      "首都是哥本哈根。"
+    ],
+    "explanation": "丹麦位于欧洲，首都是哥本哈根。与德国接壤。",
+    "latlng": [
+      56,
+      10
+    ],
+    "borders": [
+      "DEU"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "PL",
+    "name": "波兰",
+    "englishName": "Poland",
+    "continent": "欧洲",
+    "capital": "华沙",
+    "capitalEnglish": "Warsaw",
+    "flag": "./flags/pl.svg",
+    "clues": [
+      "地理分区：欧洲。",
+      "与白俄罗斯、捷克、德国等国接壤。",
+      "首都是华沙。"
+    ],
+    "explanation": "波兰位于欧洲，首都是华沙。与白俄罗斯、捷克、德国等国接壤。",
+    "latlng": [
+      52,
+      20
+    ],
+    "borders": [
+      "BLR",
+      "CZE",
+      "DEU",
+      "LTU",
+      "RUS",
+      "SVK",
+      "UKR"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "CZ",
+    "name": "捷克",
+    "englishName": "Czechia",
+    "continent": "欧洲",
+    "capital": "布拉格",
+    "capitalEnglish": "Prague",
+    "flag": "./flags/cz.svg",
+    "clues": [
+      "地理分区：欧洲。",
+      "与奥地利、德国、波兰等国接壤。",
+      "首都是布拉格。"
+    ],
+    "explanation": "捷克位于欧洲，首都是布拉格。与奥地利、德国、波兰等国接壤。",
+    "latlng": [
+      49.75,
+      15.5
+    ],
+    "borders": [
+      "AUT",
+      "DEU",
+      "POL",
+      "SVK"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "AT",
+    "name": "奥地利",
+    "englishName": "Austria",
+    "continent": "欧洲",
+    "capital": "维也纳",
+    "capitalEnglish": "Vienna",
+    "flag": "./flags/at.svg",
+    "clues": [
+      "地理分区：欧洲。",
+      "与捷克、德国、匈牙利等国接壤。",
+      "首都是维也纳。"
+    ],
+    "explanation": "奥地利位于欧洲，首都是维也纳。与捷克、德国、匈牙利等国接壤。",
+    "latlng": [
+      47.33333333,
+      13.33333333
+    ],
+    "borders": [
+      "CZE",
+      "DEU",
+      "HUN",
+      "ITA",
+      "LIE",
+      "SVK",
+      "SVN",
+      "CHE"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "HU",
+    "name": "匈牙利",
+    "englishName": "Hungary",
+    "continent": "欧洲",
+    "capital": "布达佩斯",
+    "capitalEnglish": "Budapest",
+    "flag": "./flags/hu.svg",
+    "clues": [
+      "地理分区：欧洲。",
+      "与奥地利、克罗地亚、罗马尼亚等国接壤。",
+      "首都是布达佩斯。"
+    ],
+    "explanation": "匈牙利位于欧洲，首都是布达佩斯。与奥地利、克罗地亚、罗马尼亚等国接壤。",
+    "latlng": [
+      47,
+      20
+    ],
+    "borders": [
+      "AUT",
+      "HRV",
+      "ROU",
+      "SRB",
+      "SVK",
+      "SVN",
+      "UKR"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "GR",
+    "name": "希腊",
+    "englishName": "Greece",
+    "continent": "欧洲",
+    "capital": "雅典",
+    "capitalEnglish": "Athens",
+    "flag": "./flags/gr.svg",
+    "clues": [
+      "地理分区：南欧。",
+      "与阿尔巴尼亚、保加利亚、土耳其等国接壤。",
+      "首都是雅典。"
+    ],
+    "explanation": "希腊位于欧洲，首都是雅典。与阿尔巴尼亚、保加利亚、土耳其等国接壤。",
+    "latlng": [
+      39,
+      22
+    ],
+    "borders": [
+      "ALB",
+      "BGR",
+      "TUR",
+      "MKD"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "RO",
+    "name": "罗马尼亚",
+    "englishName": "Romania",
+    "continent": "欧洲",
+    "capital": "布加勒斯特",
+    "capitalEnglish": "Bucharest",
+    "flag": "./flags/ro.svg",
+    "clues": [
+      "地理分区：欧洲。",
+      "与保加利亚、匈牙利、摩尔多瓦等国接壤。",
+      "首都是布加勒斯特。"
+    ],
+    "explanation": "罗马尼亚位于欧洲，首都是布加勒斯特。与保加利亚、匈牙利、摩尔多瓦等国接壤。",
+    "latlng": [
+      46,
+      25
+    ],
+    "borders": [
+      "BGR",
+      "HUN",
+      "MDA",
+      "SRB",
+      "UKR"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "BG",
+    "name": "保加利亚",
+    "englishName": "Bulgaria",
+    "continent": "欧洲",
+    "capital": "索非亚",
+    "capitalEnglish": "Sofia",
+    "flag": "./flags/bg.svg",
+    "clues": [
+      "地理分区：欧洲。",
+      "与希腊、北馬其頓、罗马尼亚等国接壤。",
+      "首都是索非亚。"
+    ],
+    "explanation": "保加利亚位于欧洲，首都是索非亚。与希腊、北馬其頓、罗马尼亚等国接壤。",
+    "latlng": [
+      43,
+      25
+    ],
+    "borders": [
+      "GRC",
+      "MKD",
+      "ROU",
+      "SRB",
+      "TUR"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "HR",
+    "name": "克罗地亚",
+    "englishName": "Croatia",
+    "continent": "欧洲",
+    "capital": "萨格勒布",
+    "capitalEnglish": "Zagreb",
+    "flag": "./flags/hr.svg",
+    "clues": [
+      "地理分区：欧洲。",
+      "与波斯尼亚和黑塞哥维那、匈牙利、黑山等国接壤。",
+      "首都是萨格勒布。"
+    ],
+    "explanation": "克罗地亚位于欧洲，首都是萨格勒布。与波斯尼亚和黑塞哥维那、匈牙利、黑山等国接壤。",
+    "latlng": [
+      45.16666666,
+      15.5
+    ],
+    "borders": [
+      "BIH",
+      "HUN",
+      "MNE",
+      "SRB",
+      "SVN"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "SI",
+    "name": "斯洛文尼亚",
+    "englishName": "Slovenia",
+    "continent": "欧洲",
+    "capital": "卢布尔雅那",
+    "capitalEnglish": "Ljubljana",
+    "flag": "./flags/si.svg",
+    "clues": [
+      "地理分区：欧洲。",
+      "与奥地利、克罗地亚、意大利等国接壤。",
+      "首都是卢布尔雅那。"
+    ],
+    "explanation": "斯洛文尼亚位于欧洲，首都是卢布尔雅那。与奥地利、克罗地亚、意大利等国接壤。",
+    "latlng": [
+      46.11666666,
+      14.81666666
+    ],
+    "borders": [
+      "AUT",
+      "HRV",
+      "ITA",
+      "HUN"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "SK",
+    "name": "斯洛伐克",
+    "englishName": "Slovakia",
+    "continent": "欧洲",
+    "capital": "布拉迪斯拉发",
+    "capitalEnglish": "Bratislava",
+    "flag": "./flags/sk.svg",
+    "clues": [
+      "地理分区：欧洲。",
+      "与奥地利、捷克、匈牙利等国接壤。",
+      "首都是布拉迪斯拉发。"
+    ],
+    "explanation": "斯洛伐克位于欧洲，首都是布拉迪斯拉发。与奥地利、捷克、匈牙利等国接壤。",
+    "latlng": [
+      48.66666666,
+      19.5
+    ],
+    "borders": [
+      "AUT",
+      "CZE",
+      "HUN",
+      "POL",
+      "UKR"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "EE",
+    "name": "爱沙尼亚",
+    "englishName": "Estonia",
+    "continent": "欧洲",
+    "capital": "塔林",
+    "capitalEnglish": "Tallinn",
+    "flag": "./flags/ee.svg",
+    "clues": [
+      "地理分区：北欧。",
+      "与拉脱维亚、俄罗斯接壤。",
+      "首都是塔林。"
+    ],
+    "explanation": "爱沙尼亚位于欧洲，首都是塔林。与拉脱维亚、俄罗斯接壤。",
+    "latlng": [
+      59,
+      26
+    ],
+    "borders": [
+      "LVA",
+      "RUS"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "LV",
+    "name": "拉脱维亚",
+    "englishName": "Latvia",
+    "continent": "欧洲",
+    "capital": "里加",
+    "capitalEnglish": "Riga",
+    "flag": "./flags/lv.svg",
+    "clues": [
+      "地理分区：北欧。",
+      "与白俄罗斯、爱沙尼亚、立陶宛等国接壤。",
+      "首都是里加。"
+    ],
+    "explanation": "拉脱维亚位于欧洲，首都是里加。与白俄罗斯、爱沙尼亚、立陶宛等国接壤。",
+    "latlng": [
+      57,
+      25
+    ],
+    "borders": [
+      "BLR",
+      "EST",
+      "LTU",
+      "RUS"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "LT",
+    "name": "立陶宛",
+    "englishName": "Lithuania",
+    "continent": "欧洲",
+    "capital": "维尔纽斯",
+    "capitalEnglish": "Vilnius",
+    "flag": "./flags/lt.svg",
+    "clues": [
+      "地理分区：北欧。",
+      "与白俄罗斯、拉脱维亚、波兰等国接壤。",
+      "首都是维尔纽斯。"
+    ],
+    "explanation": "立陶宛位于欧洲，首都是维尔纽斯。与白俄罗斯、拉脱维亚、波兰等国接壤。",
+    "latlng": [
+      56,
+      24
+    ],
+    "borders": [
+      "BLR",
+      "LVA",
+      "POL",
+      "RUS"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "MT",
+    "name": "马耳他",
+    "englishName": "Malta",
+    "continent": "欧洲",
+    "capital": "瓦莱塔",
+    "capitalEnglish": "Valletta",
+    "flag": "./flags/mt.svg",
+    "clues": [
+      "地理分区：南欧。",
+      "位于南欧，没有与其他国家相连的陆地国界。",
+      "首都是瓦莱塔。"
+    ],
+    "explanation": "马耳他位于欧洲，首都是瓦莱塔。位于南欧，没有与其他国家相连的陆地国界。",
+    "latlng": [
+      35.83333333,
+      14.58333333
+    ],
+    "borders": [],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "LU",
+    "name": "卢森堡",
+    "englishName": "Luxembourg",
+    "continent": "欧洲",
+    "capital": "卢森堡市",
+    "capitalEnglish": "Luxembourg",
+    "flag": "./flags/lu.svg",
+    "clues": [
+      "地理分区：西欧。",
+      "与比利时、法国、德国接壤。",
+      "国土位于比利时、法国与德国之间，是欧洲内陆国家。"
+    ],
+    "explanation": "卢森堡位于欧洲，首都是卢森堡市。与比利时、法国、德国接壤。",
+    "latlng": [
+      49.75,
+      6.16666666
+    ],
+    "borders": [
+      "BEL",
+      "FRA",
+      "DEU"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "BE",
+    "name": "比利时",
+    "englishName": "Belgium",
+    "continent": "欧洲",
+    "capital": "布鲁塞尔",
+    "capitalEnglish": "Brussels",
+    "flag": "./flags/be.svg",
+    "clues": [
+      "地理分区：西欧。",
+      "与法国、德国、卢森堡等国接壤。",
+      "首都是布鲁塞尔。"
+    ],
+    "explanation": "比利时位于欧洲，首都是布鲁塞尔。与法国、德国、卢森堡等国接壤。",
+    "latlng": [
+      50.83333333,
+      4
+    ],
+    "borders": [
+      "FRA",
+      "DEU",
+      "LUX",
+      "NLD"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "CA",
+    "name": "加拿大",
+    "englishName": "Canada",
+    "continent": "北美洲",
+    "capital": "渥太华",
+    "capitalEnglish": "Ottawa",
+    "flag": "./flags/ca.svg",
+    "clues": [
+      "地理分区：北美洲。",
+      "与美国接壤。",
+      "首都是渥太华。"
+    ],
+    "explanation": "加拿大位于北美洲，首都是渥太华。与美国接壤。",
+    "latlng": [
+      60,
+      -95
+    ],
+    "borders": [
+      "USA"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "US",
+    "name": "美国",
+    "englishName": "United States",
+    "continent": "北美洲",
+    "capital": "华盛顿哥伦比亚特区",
+    "capitalEnglish": "Washington D.C.",
+    "flag": "./flags/us.svg",
+    "clues": [
+      "地理分区：北美洲。",
+      "与加拿大、墨西哥接壤。",
+      "首都是华盛顿哥伦比亚特区。"
+    ],
+    "explanation": "美国位于北美洲，首都是华盛顿哥伦比亚特区。与加拿大、墨西哥接壤。",
+    "latlng": [
+      38,
+      -97
+    ],
+    "borders": [
+      "CAN",
+      "MEX"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "MX",
+    "name": "墨西哥",
+    "englishName": "Mexico",
+    "continent": "北美洲",
+    "capital": "墨西哥城",
+    "capitalEnglish": "Mexico City",
+    "flag": "./flags/mx.svg",
+    "clues": [
+      "地理分区：北美洲。",
+      "与伯利兹、危地马拉、美国接壤。",
+      "北邻美国，东南与危地马拉、伯利兹接壤。"
+    ],
+    "explanation": "墨西哥位于北美洲，首都是墨西哥城。与伯利兹、危地马拉、美国接壤。",
+    "latlng": [
+      23,
+      -102
+    ],
+    "borders": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "CR",
+    "name": "哥斯达黎加",
+    "englishName": "Costa Rica",
+    "continent": "北美洲",
+    "capital": "圣何塞",
+    "capitalEnglish": "San José",
+    "flag": "./flags/cr.svg",
+    "clues": [
+      "地理分区：中美洲。",
+      "与尼加拉瓜、巴拿马接壤。",
+      "首都是圣何塞。"
+    ],
+    "explanation": "哥斯达黎加位于北美洲，首都是圣何塞。与尼加拉瓜、巴拿马接壤。",
+    "latlng": [
+      10,
+      -84
+    ],
+    "borders": [
+      "NIC",
+      "PAN"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "PA",
+    "name": "巴拿马",
+    "englishName": "Panama",
+    "continent": "北美洲",
+    "capital": "巴拿马城",
+    "capitalEnglish": "Panama City",
+    "flag": "./flags/pa.svg",
+    "clues": [
+      "地理分区：中美洲。",
+      "与哥伦比亚、哥斯达黎加接壤。",
+      "境内有连接太平洋和大西洋的著名运河。"
+    ],
+    "explanation": "巴拿马位于北美洲，首都是巴拿马城。与哥伦比亚、哥斯达黎加接壤。",
+    "latlng": [
+      9,
+      -80
+    ],
+    "borders": [
+      "COL",
+      "CRI"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "CU",
+    "name": "古巴",
+    "englishName": "Cuba",
+    "continent": "北美洲",
+    "capital": "哈瓦那",
+    "capitalEnglish": "Havana",
+    "flag": "./flags/cu.svg",
+    "clues": [
+      "地理分区：加勒比地区。",
+      "位于加勒比地区，没有与其他国家相连的陆地国界。",
+      "首都是哈瓦那。"
+    ],
+    "explanation": "古巴位于北美洲，首都是哈瓦那。位于加勒比地区，没有与其他国家相连的陆地国界。",
+    "latlng": [
+      21.5,
+      -80
+    ],
+    "borders": [],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "JM",
+    "name": "牙买加",
+    "englishName": "Jamaica",
+    "continent": "北美洲",
+    "capital": "金斯敦",
+    "capitalEnglish": "Kingston",
+    "flag": "./flags/jm.svg",
+    "clues": [
+      "地理分区：加勒比地区。",
+      "位于加勒比地区，没有与其他国家相连的陆地国界。",
+      "首都是金斯敦。"
+    ],
+    "explanation": "牙买加位于北美洲，首都是金斯敦。位于加勒比地区，没有与其他国家相连的陆地国界。",
+    "latlng": [
+      18.25,
+      -77.5
+    ],
+    "borders": [],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "BS",
+    "name": "巴哈马",
+    "englishName": "Bahamas",
+    "continent": "北美洲",
+    "capital": "拿骚",
+    "capitalEnglish": "Nassau",
+    "flag": "./flags/bs.svg",
+    "clues": [
+      "地理分区：加勒比地区。",
+      "位于加勒比地区，没有与其他国家相连的陆地国界。",
+      "首都是拿骚。"
+    ],
+    "explanation": "巴哈马位于北美洲，首都是拿骚。位于加勒比地区，没有与其他国家相连的陆地国界。",
+    "latlng": [
+      24.25,
+      -76
+    ],
+    "borders": [],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "BR",
+    "name": "巴西",
+    "englishName": "Brazil",
+    "continent": "南美洲",
+    "capital": "巴西利亚",
+    "capitalEnglish": "Brasília",
+    "flag": "./flags/br.svg",
+    "clues": [
+      "地理分区：南美洲。",
+      "与阿根廷、玻利维亚、哥伦比亚等国接壤。",
+      "国土面积为南美洲最大，拥有亚马孙河流域的广阔雨林。"
+    ],
+    "explanation": "巴西位于南美洲，首都是巴西利亚。与阿根廷、玻利维亚、哥伦比亚等国接壤。",
+    "latlng": [
+      -10,
+      -55
+    ],
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "AR",
+    "name": "阿根廷",
+    "englishName": "Argentina",
+    "continent": "南美洲",
+    "capital": "布宜诺斯艾利斯",
+    "capitalEnglish": "Buenos Aires",
+    "flag": "./flags/ar.svg",
+    "clues": [
+      "地理分区：南美洲。",
+      "与玻利维亚、巴西、智利等国接壤。",
+      "首都是布宜诺斯艾利斯。"
+    ],
+    "explanation": "阿根廷位于南美洲，首都是布宜诺斯艾利斯。与玻利维亚、巴西、智利等国接壤。",
+    "latlng": [
+      -34,
+      -64
+    ],
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "CL",
+    "name": "智利",
+    "englishName": "Chile",
+    "continent": "南美洲",
+    "capital": "圣地亚哥",
+    "capitalEnglish": "Santiago",
+    "flag": "./flags/cl.svg",
+    "clues": [
+      "地理分区：南美洲。",
+      "与阿根廷、玻利维亚、秘鲁接壤。",
+      "首都是圣地亚哥。"
+    ],
+    "explanation": "智利位于南美洲，首都是圣地亚哥。与阿根廷、玻利维亚、秘鲁接壤。",
+    "latlng": [
+      -30,
+      -71
+    ],
+    "borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "PE",
+    "name": "秘鲁",
+    "englishName": "Peru",
+    "continent": "南美洲",
+    "capital": "利马",
+    "capitalEnglish": "Lima",
+    "flag": "./flags/pe.svg",
+    "clues": [
+      "地理分区：南美洲。",
+      "与玻利维亚、巴西、智利等国接壤。",
+      "首都是利马。"
+    ],
+    "explanation": "秘鲁位于南美洲，首都是利马。与玻利维亚、巴西、智利等国接壤。",
+    "latlng": [
+      -10,
+      -76
+    ],
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "EC",
+    "name": "厄瓜多尔",
+    "englishName": "Ecuador",
+    "continent": "南美洲",
+    "capital": "基多",
+    "capitalEnglish": "Quito",
+    "flag": "./flags/ec.svg",
+    "clues": [
+      "地理分区：南美洲。",
+      "与哥伦比亚、秘鲁接壤。",
+      "首都是基多。"
+    ],
+    "explanation": "厄瓜多尔位于南美洲，首都是基多。与哥伦比亚、秘鲁接壤。",
+    "latlng": [
+      -2,
+      -77.5
+    ],
+    "borders": [
+      "COL",
+      "PER"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "CO",
+    "name": "哥伦比亚",
+    "englishName": "Colombia",
+    "continent": "南美洲",
+    "capital": "波哥大",
+    "capitalEnglish": "Bogotá",
+    "flag": "./flags/co.svg",
+    "clues": [
+      "地理分区：南美洲。",
+      "与巴西、厄瓜多尔、巴拿马等国接壤。",
+      "首都是波哥大。"
+    ],
+    "explanation": "哥伦比亚位于南美洲，首都是波哥大。与巴西、厄瓜多尔、巴拿马等国接壤。",
+    "latlng": [
+      4,
+      -72
+    ],
+    "borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "UY",
+    "name": "乌拉圭",
+    "englishName": "Uruguay",
+    "continent": "南美洲",
+    "capital": "蒙得维的亚",
+    "capitalEnglish": "Montevideo",
+    "flag": "./flags/uy.svg",
+    "clues": [
+      "地理分区：南美洲。",
+      "与阿根廷、巴西接壤。",
+      "首都是蒙得维的亚。"
+    ],
+    "explanation": "乌拉圭位于南美洲，首都是蒙得维的亚。与阿根廷、巴西接壤。",
+    "latlng": [
+      -33,
+      -56
+    ],
+    "borders": [
+      "ARG",
+      "BRA"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "PY",
+    "name": "巴拉圭",
+    "englishName": "Paraguay",
+    "continent": "南美洲",
+    "capital": "亚松森",
+    "capitalEnglish": "Asunción",
+    "flag": "./flags/py.svg",
+    "clues": [
+      "地理分区：南美洲。",
+      "与阿根廷、玻利维亚、巴西接壤。",
+      "首都是亚松森。"
+    ],
+    "explanation": "巴拉圭位于南美洲，首都是亚松森。与阿根廷、玻利维亚、巴西接壤。",
+    "latlng": [
+      -23,
+      -58
+    ],
+    "borders": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "MA",
+    "name": "摩洛哥",
+    "englishName": "Morocco",
+    "continent": "非洲",
+    "capital": "拉巴特",
+    "capitalEnglish": "Rabat",
+    "flag": "./flags/ma.svg",
+    "clues": [
+      "地理分区：非洲北部。",
+      "与阿尔及利亚、西撒哈拉、西班牙接壤。",
+      "首都是拉巴特。"
+    ],
+    "explanation": "摩洛哥位于非洲，首都是拉巴特。与阿尔及利亚、西撒哈拉、西班牙接壤。",
+    "latlng": [
+      32,
+      -5
+    ],
+    "borders": [
+      "DZA",
+      "ESH",
+      "ESP"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "TN",
+    "name": "突尼斯",
+    "englishName": "Tunisia",
+    "continent": "非洲",
+    "capital": "突尼斯市",
+    "capitalEnglish": "Tunis",
+    "flag": "./flags/tn.svg",
+    "clues": [
+      "地理分区：非洲北部。",
+      "与阿尔及利亚、利比亚接壤。",
+      "拥有非洲大陆最北端的领土，北临地中海。"
+    ],
+    "explanation": "突尼斯位于非洲，首都是突尼斯市。与阿尔及利亚、利比亚接壤。",
+    "latlng": [
+      34,
+      9
+    ],
+    "borders": [
+      "DZA",
+      "LBY"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "KE",
+    "name": "肯尼亚",
+    "englishName": "Kenya",
+    "continent": "非洲",
+    "capital": "内罗毕",
+    "capitalEnglish": "Nairobi",
+    "flag": "./flags/ke.svg",
+    "clues": [
+      "地理分区：非洲东部。",
+      "与埃塞俄比亚、索马里、南苏丹等国接壤。",
+      "首都是内罗毕。"
+    ],
+    "explanation": "肯尼亚位于非洲，首都是内罗毕。与埃塞俄比亚、索马里、南苏丹等国接壤。",
+    "latlng": [
+      1,
+      38
+    ],
+    "borders": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "UG",
+    "name": "乌干达",
+    "englishName": "Uganda",
+    "continent": "非洲",
+    "capital": "坎帕拉",
+    "capitalEnglish": "Kampala",
+    "flag": "./flags/ug.svg",
+    "clues": [
+      "地理分区：非洲东部。",
+      "与民主刚果、肯尼亚、卢旺达等国接壤。",
+      "首都是坎帕拉。"
+    ],
+    "explanation": "乌干达位于非洲，首都是坎帕拉。与民主刚果、肯尼亚、卢旺达等国接壤。",
+    "latlng": [
+      1,
+      32
+    ],
+    "borders": [
+      "COD",
+      "KEN",
+      "RWA",
+      "SSD",
+      "TZA"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "RW",
+    "name": "卢旺达",
+    "englishName": "Rwanda",
+    "continent": "非洲",
+    "capital": "基加利",
+    "capitalEnglish": "Kigali",
+    "flag": "./flags/rw.svg",
+    "clues": [
+      "地理分区：非洲东部。",
+      "与布隆迪、民主刚果、坦桑尼亚等国接壤。",
+      "首都是基加利。"
+    ],
+    "explanation": "卢旺达位于非洲，首都是基加利。与布隆迪、民主刚果、坦桑尼亚等国接壤。",
+    "latlng": [
+      -2,
+      30
+    ],
+    "borders": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "ET",
+    "name": "埃塞俄比亚",
+    "englishName": "Ethiopia",
+    "continent": "非洲",
+    "capital": "亚的斯亚贝巴",
+    "capitalEnglish": "Addis Ababa",
+    "flag": "./flags/et.svg",
+    "clues": [
+      "地理分区：非洲东部。",
+      "与吉布提、厄立特里亚、肯尼亚等国接壤。",
+      "首都是亚的斯亚贝巴。"
+    ],
+    "explanation": "埃塞俄比亚位于非洲，首都是亚的斯亚贝巴。与吉布提、厄立特里亚、肯尼亚等国接壤。",
+    "latlng": [
+      8,
+      38
+    ],
+    "borders": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "GH",
+    "name": "加纳",
+    "englishName": "Ghana",
+    "continent": "非洲",
+    "capital": "阿克拉",
+    "capitalEnglish": "Accra",
+    "flag": "./flags/gh.svg",
+    "clues": [
+      "地理分区：非洲西部。",
+      "与布基纳法索、科特迪瓦、多哥接壤。",
+      "首都是阿克拉。"
+    ],
+    "explanation": "加纳位于非洲，首都是阿克拉。与布基纳法索、科特迪瓦、多哥接壤。",
+    "latlng": [
+      8,
+      -2
+    ],
+    "borders": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "SN",
+    "name": "塞内加尔",
+    "englishName": "Senegal",
+    "continent": "非洲",
+    "capital": "达喀尔",
+    "capitalEnglish": "Dakar",
+    "flag": "./flags/sn.svg",
+    "clues": [
+      "地理分区：非洲西部。",
+      "与冈比亚、几内亚、几内亚比绍等国接壤。",
+      "首都是达喀尔。"
+    ],
+    "explanation": "塞内加尔位于非洲，首都是达喀尔。与冈比亚、几内亚、几内亚比绍等国接壤。",
+    "latlng": [
+      14,
+      -14
+    ],
+    "borders": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "MG",
+    "name": "马达加斯加",
+    "englishName": "Madagascar",
+    "continent": "非洲",
+    "capital": "塔那那利佛",
+    "capitalEnglish": "Antananarivo",
+    "flag": "./flags/mg.svg",
+    "clues": [
+      "地理分区：非洲东部。",
+      "位于非洲东部，没有与其他国家相连的陆地国界。",
+      "首都是塔那那利佛。"
+    ],
+    "explanation": "马达加斯加位于非洲，首都是塔那那利佛。位于非洲东部，没有与其他国家相连的陆地国界。",
+    "latlng": [
+      -20,
+      47
+    ],
+    "borders": [],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "AU",
+    "name": "澳大利亚",
+    "englishName": "Australia",
+    "continent": "大洋洲",
+    "capital": "堪培拉",
+    "capitalEnglish": "Canberra",
+    "flag": "./flags/au.svg",
+    "clues": [
+      "地理分区：大洋洲西南部。",
+      "位于大洋洲西南部，没有与其他国家相连的陆地国界。",
+      "首都是堪培拉。"
+    ],
+    "explanation": "澳大利亚位于大洋洲，首都是堪培拉。位于澳大利亚和新西兰地区，没有与其他国家相连的陆地国界。",
+    "latlng": [
+      -27,
+      133
+    ],
+    "borders": [],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "NZ",
+    "name": "新西兰",
+    "englishName": "New Zealand",
+    "continent": "大洋洲",
+    "capital": "惠灵顿",
+    "capitalEnglish": "Wellington",
+    "flag": "./flags/nz.svg",
+    "clues": [
+      "地理分区：大洋洲西南部。",
+      "位于大洋洲西南部，没有与其他国家相连的陆地国界。",
+      "首都是惠灵顿。"
+    ],
+    "explanation": "新西兰位于大洋洲，首都是惠灵顿。位于澳大利亚和新西兰地区，没有与其他国家相连的陆地国界。",
+    "latlng": [
+      -41,
+      174
+    ],
+    "borders": [],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "FJ",
+    "name": "斐济",
+    "englishName": "Fiji",
+    "continent": "大洋洲",
+    "capital": "苏瓦",
+    "capitalEnglish": "Suva",
+    "flag": "./flags/fj.svg",
+    "clues": [
+      "地理分区：美拉尼西亚。",
+      "位于美拉尼西亚，没有与其他国家相连的陆地国界。",
+      "首都是苏瓦。"
+    ],
+    "explanation": "斐济位于大洋洲，首都是苏瓦。位于美拉尼西亚，没有与其他国家相连的陆地国界。",
+    "latlng": [
+      -18,
+      175
+    ],
+    "borders": [],
+    "source": "https://github.com/mledoze/countries"
+  },
+  {
+    "iso": "PG",
+    "name": "巴布亚新几内亚",
+    "englishName": "Papua New Guinea",
+    "continent": "大洋洲",
+    "capital": "莫尔兹比港",
+    "capitalEnglish": "Port Moresby",
+    "flag": "./flags/pg.svg",
+    "clues": [
+      "地理分区：美拉尼西亚。",
+      "与印度尼西亚接壤。",
+      "首都是莫尔兹比港。"
+    ],
+    "explanation": "巴布亚新几内亚位于大洋洲，首都是莫尔兹比港。与印度尼西亚接壤。",
+    "latlng": [
+      -6,
+      147
+    ],
+    "borders": [
+      "IDN"
+    ],
+    "source": "https://github.com/mledoze/countries"
+  }
+]
